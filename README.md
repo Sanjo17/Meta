@@ -4,8 +4,8 @@ The `MyToken` contract is a simple implementation of a token contract on the Eth
 
 ## Token Details
 
-- Token Name: META
-- Token Abbreviation: MTA
+- Token Name: Paripuvada
+- Token Abbreviation: PARI
 - Total Supply: 0
 
 ## Contract Features
